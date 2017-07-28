@@ -1,0 +1,44 @@
+2017-05-14 00:25:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0T33y8PcmlLpByzpoBlmk7s]]></FromUserName>
+<CreateTime>1494692709</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.622208</Latitude>
+<Longitude>114.054413</Longitude>
+<Precision>10.000000</Precision>
+</xml>
+
+2017-05-14 00:25:09 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0T33y8PcmlLpByzpoBlmk7s',
+    'createtime' => '1494692709',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.622208',
+    'longitude' => '114.054413',
+    'precision' => '10.000000',
+    'from' => 'oeSIo0T33y8PcmlLpByzpoBlmk7s',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1494692709',
+    'type' => 'trace',
+    'location_x' => '22.622208',
+    'location_y' => '114.054413',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-05-14 00:25:09 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+

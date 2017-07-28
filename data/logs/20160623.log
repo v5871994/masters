@@ -1,0 +1,450 @@
+2016-06-23 10:01:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt2OM5TWQiadFxNUcC7Cb_n0]]></FromUserName>
+<CreateTime>1466647303</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 10:01:43 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 10:01:43 response :
+------------
+
+2016-06-23 12:31:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt1X0wq-Wz4J3zlQiCdS2cIA]]></FromUserName>
+<CreateTime>1466656281</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&do=member&m=sz_yi]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 12:31:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 12:31:21 response :
+------------
+
+2016-06-23 14:08:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt5Vl3XcZPbt3L1ZLmWjShc4]]></FromUserName>
+<CreateTime>1466662113</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 14:08:33 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 14:08:33 response :
+------------
+
+2016-06-23 18:04:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt2TES88xI50wMOkMkVqkY_o]]></FromUserName>
+<CreateTime>1466676257</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-06-23 18:04:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 18:04:17 response :
+------------
+
+2016-06-23 18:07:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt2OM5TWQiadFxNUcC7Cb_n0]]></FromUserName>
+<CreateTime>1466676461</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 18:07:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 18:07:41 response :
+------------
+
+2016-06-23 19:02:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt2OM5TWQiadFxNUcC7Cb_n0]]></FromUserName>
+<CreateTime>1466679733</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 19:02:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 19:02:13 response :
+------------
+
+2016-06-23 19:40:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt2OM5TWQiadFxNUcC7Cb_n0]]></FromUserName>
+<CreateTime>1466682001</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 19:40:01 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 19:40:01 response :
+------------
+
+2016-06-23 19:50:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt2OM5TWQiadFxNUcC7Cb_n0]]></FromUserName>
+<CreateTime>1466682629</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 19:50:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 19:50:30 response :
+------------
+
+2016-06-23 22:17:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt1X0wq-Wz4J3zlQiCdS2cIA]]></FromUserName>
+<CreateTime>1466691457</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 22:17:37 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 22:17:37 response :
+------------
+
+2016-06-23 23:07:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466694475</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 23:07:56 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 23:07:56 response :
+------------
+
+2016-06-23 23:09:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466694554</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[二维码海报]]></EventKey>
+</xml>
+
+2016-06-23 23:09:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466694557</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&do=member&m=sz_yi]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 23:09:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 23:09:17 response :
+------------
+
+2016-06-23 23:09:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466694563</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&do=member&m=sz_yi]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 23:09:23 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 23:09:23 response :
+------------
+
+2016-06-23 23:11:51 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466694711</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 23:11:51 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 23:11:51 response :
+------------
+
+2016-06-23 23:14:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466694870</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 23:14:30 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 23:14:30 response :
+------------
+
+2016-06-23 23:16:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466694966</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 23:16:06 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 23:16:06 response :
+------------
+
+2016-06-23 23:17:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466695034</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 23:17:15 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 23:17:15 response :
+------------
+
+2016-06-23 23:21:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466695260</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 23:21:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 23:21:00 response :
+------------
+
+2016-06-23 23:23:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466695380</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&do=member&m=sz_yi]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 23:23:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 23:23:00 response :
+------------
+
+2016-06-23 23:24:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466695452</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 23:24:12 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 23:24:12 response :
+------------
+
+2016-06-23 23:26:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466695592</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-23 23:26:32 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-23 23:26:32 response :
+------------
+

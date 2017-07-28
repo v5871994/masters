@@ -1,0 +1,223 @@
+2016-06-24 09:03:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt-gKAhm8I9VyvE4tt__AUoQ]]></FromUserName>
+<CreateTime>1466730180</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-24 09:03:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-24 09:03:00 response :
+------------
+
+2016-06-24 09:25:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt_NCjk-c1N3M2iSToA8jFeI]]></FromUserName>
+<CreateTime>1466731513</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-24 09:25:13 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-24 09:25:13 response :
+------------
+
+2016-06-24 15:39:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt1aSDyo55WOW__m0R-6cUJc]]></FromUserName>
+<CreateTime>1466753967</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2016-06-24 15:39:28 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-24 15:39:28 response :
+------------
+
+2016-06-24 15:39:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt1aSDyo55WOW__m0R-6cUJc]]></FromUserName>
+<CreateTime>1466753971</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-24 15:39:31 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-24 15:39:31 response :
+------------
+
+2016-06-24 15:44:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt1aSDyo55WOW__m0R-6cUJc]]></FromUserName>
+<CreateTime>1466754281</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-24 15:44:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-24 15:44:41 response :
+------------
+
+2016-06-24 15:48:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt1aSDyo55WOW__m0R-6cUJc]]></FromUserName>
+<CreateTime>1466754480</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[二维码海报]]></EventKey>
+</xml>
+
+2016-06-24 15:48:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt1aSDyo55WOW__m0R-6cUJc]]></FromUserName>
+<CreateTime>1466754488</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-24 15:48:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-24 15:48:08 response :
+------------
+
+2016-06-24 15:55:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt1aSDyo55WOW__m0R-6cUJc]]></FromUserName>
+<CreateTime>1466754904</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[二维码海报]]></EventKey>
+</xml>
+
+2016-06-24 15:57:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt1aSDyo55WOW__m0R-6cUJc]]></FromUserName>
+<CreateTime>1466755045</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[ad45ee05d4c3f88c3c745e6d2440b566]]></EventKey>
+<Ticket><![CDATA[gQEV7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xLy1rek9ZaTdtNFNxWWZreW90bVRvAAIEWedsVwMEAAAAAA==]]></Ticket>
+</xml>
+
+2016-06-24 15:57:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt22JEfjR8gA1Yh4D1Qp31wQ]]></FromUserName>
+<CreateTime>1466755074</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_ad45ee05d4c3f88c3c745e6d2440b566]]></EventKey>
+<Ticket><![CDATA[gQEV7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xLy1rek9ZaTdtNFNxWWZreW90bVRvAAIEWedsVwMEAAAAAA==]]></Ticket>
+</xml>
+
+2016-06-24 16:06:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOttzgu0Jc7C5_lsbic3xPmB-8]]></FromUserName>
+<CreateTime>1466755584</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_ad45ee05d4c3f88c3c745e6d2440b566]]></EventKey>
+<Ticket><![CDATA[gQEV7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xLy1rek9ZaTdtNFNxWWZreW90bVRvAAIEWedsVwMEAAAAAA==]]></Ticket>
+</xml>
+
+2016-06-24 16:09:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt6w_dr5KoHo_G0_DmOgmT04]]></FromUserName>
+<CreateTime>1466755755</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[qrscene_ad45ee05d4c3f88c3c745e6d2440b566]]></EventKey>
+<Ticket><![CDATA[gQEV7zoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xLy1rek9ZaTdtNFNxWWZreW90bVRvAAIEWedsVwMEAAAAAA==]]></Ticket>
+</xml>
+
+2016-06-24 16:09:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt6w_dr5KoHo_G0_DmOgmT04]]></FromUserName>
+<CreateTime>1466755757</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457882021</MenuId>
+</xml>
+
+2016-06-24 16:09:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-24 16:09:17 response :
+------------
+

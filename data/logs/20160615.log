@@ -1,0 +1,22 @@
+2016-06-15 12:12:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_53d3c05432a7]]></ToUserName>
+<FromUserName><![CDATA[oLFOtt1X0wq-Wz4J3zlQiCdS2cIA]]></FromUserName>
+<CreateTime>1465963927</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://yz.win-k.com/app/index.php?i=2&c=entry&eid=12]]></EventKey>
+<MenuId>457838290</MenuId>
+</xml>
+
+2016-06-15 12:12:08 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-06-15 12:12:08 response :
+------------
+

@@ -1,0 +1,128 @@
+{template '_header'}
+<div class='fui-page  fui-page-current'>
+ <!--   <div class="fui-header">
+		<div class="fui-header-left">
+			<a class="back" onclick='location.back()'></a>
+		</div>
+		<div class="title">{if !empty($bind)}更换绑定手机号{else}绑定手机号{/if}</div>
+		<div class="fui-header-right">&nbsp;</div>
+	</div>
+
+	<div class='fui-content' style='margin-top:5px;background:yellow'>
+
+		<style>.fui-cell-group .fui-cell .fui-cell-label {width: 4.5rem;}</style>
+
+		<div class="fui-cell-group">
+
+			<div class="fui-cell must">
+				<div class="fui-cell-label">手机号</div>
+				<div class="fui-cell-info"><input type="tel" class='fui-input' id='mobile' name='mobile' placeholder="请输入您的手机号"  value="{$member['mobile']}" maxlength="11" /></div>
+			</div>
+
+			{if !empty($wapset['smsimgcode'])}
+				<div class="fui-cell must">
+					<div class="fui-cell-label">图形验证码</div>
+					<div class="fui-cell-info">
+						<input type="tel" class='fui-input' id='verifycode2' name='verifycode2' placeholder="请输入图形验证码"  value="" maxlength="4" />
+					</div>
+					<div class="fui-cell-remark noremark">
+						<img src="../web/index.php?c=utility&a=code&r={php echo time()}" style="width: 3.5rem; height: 1.5rem; vertical-align: middle;" id="btnCode2">
+					</div>
+				</div>
+			{/if}
+
+			<div class="fui-cell must">
+				<div class="fui-cell-label">验证码</div>
+				<div class="fui-cell-info"><input type="tel" class='fui-input' id='verifycode' name='verifycode' placeholder="5位验证码"  value="" maxlength="5" /></div>
+				<div class="fui-cell-remark noremark"><a class="btn btn-default btn-default-o btn-sm" id="btnCode">获取验证码</a></div>
+			</div>
+			<div class="fui-cell must">
+				<div class="fui-cell-label">登录密码</div>
+				<div class="fui-cell-info"><input type="password" class='fui-input' id='pwd' name='pwd' placeholder="请输入您的登录密码"  value="" /></div>
+			</div>
+			<div class="fui-cell must">
+				<div class="fui-cell-label">确认密码</div>
+				<div class="fui-cell-info"><input type="password" class='fui-input' id='pwd1' name='pwd1' placeholder="请输入确认登录密码"  value="" /></div>
+			</div>
+
+		</div>
+		<img src='../addons/ewei_shopv2/static/images/home1.png'>
+
+		<a href='#' id='btnSubmit' class='btn btn-success block'>立即绑定</a>
+	</div>
+	-->
+<style>
+.bind_main{width:100%;height:100%;font-family:'华文细黑',Arial;background:url('../addons/ewei_shopv2/static/images/back04.png');background-size:100% 100%;background-color:white}
+
+.bind_head{width:100%;height:3rem;padding:0.5rem 0;}
+.bind_logo{width:40%;margin-left:30%;background:url('../addons/ewei_shopv2/static/images/logo01.png');background-size:100% 100%;}
+
+.bind_content{width:100%;height:auto;margin-top:0.3rem}
+.bind_content_inp{width:90%;height:2.5rem;margin-left:5%;margin-top:0.25rem;padding-top:0.25rem ;border-bottom:1px solid #cdcdcd;}
+.bind_content_inp input{width:100%;height:2.4rem;border-style:none;background:none;font-size:0.7rem;color:#808080;margin-top:0.25rem;padding-bottom:0.2rem}
+.bind_content_inp input.verify{width:60%}
+.bind_btn{width:90%;margin-left:5%;background:#ec4337;height:2rem;margin-top:2.8rem;color:white;text-align:center;font-size:0.8rem;line-height:2rem;border-radius:0.2rem}
+.weixin_btn{width:90%;margin-left:5%;background:#eca39e;height:2rem;color:white;text-align:center;font-size:0.8rem;line-height:2rem;position:fixed;bottom:0.5rem;border-radius:0.2rem}
+.close{font-size:1.5rem;padding-left:1rem;color:#303030}
+.code_sp{display:inline;width:4.8rem;border-radius:0.7rem;border:1px solid #bebebe;height:1.6rem;font-size:0.7rem;color:#999999;position:absolute;
+margin-top:0.3rem;padding-left:0.5rem;line-height:1.5rem}
+</style>
+	
+	<div class='bind_main'>
+		<div class='bind_head'>
+			<i class='icon icon-close close' onclick="javascript:history.go(-1)"></i>
+		</div>
+		<div class='bind_logo'>
+			
+		</div>
+		<div class='bind_content'>
+			<div class='bind_content_inp'>
+				<input type="text" placeholder='手机号' id='mobile'>
+			</div>
+			<div class='bind_content_inp'>
+				<input type="text" class='verify' placeholder='验证码' id='verifycode' ><span class='code_sp' id="btnCode">获取验证码</sapn></input>
+			</div>
+		</div>
+		<div id='btnSubmit' class='bind_btn'><span>登 录</span></div>
+		
+		<div id='weixin_btn' class='weixin_btn'><i class='icon icon-wechat1' style='font-size:1rem;margin-right:0.1rem'></i>微信登录</div>
+	
+	</div>
+	
+	<script language='javascript'>
+	var w_width=$(window).width();
+	var logo_h=w_width*0.4*0.5;
+	$('.bind_logo').css('height',logo_h);
+	$("#btnCode").css('right',w_width*0.06);
+	var w_height=$(window).height();
+	$(window).resize(function(){
+		if(w_height-$(this).height()>20){
+			$('#weixin_btn').css('position','static');
+		}else{
+			$('#weixin_btn').css('position','fixed');
+		}
+	
+	});
+	
+	$("#weixin_btn").click(function(){
+		$.post("{php echo mobileUrl('member/bind/passbind')}",function(data){
+			if(data.status==1){
+				location.href="{php echo mobileUrl('member')}";
+			}
+		},'json');
+	
+	});
+	
+	
+	require(['biz/member/account'], function (modal) {
+		modal.initBind({
+				endtime: {php echo intval($endtime)},
+				backurl: "{$_GPC['backurl']}",
+				imgcode: {php echo intval($wapset['smsimgcode'])}
+		});
+	});
+</script>
+
+</div>
+{template '_footer'}
+

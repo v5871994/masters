@@ -1,0 +1,67 @@
+2017-03-27 23:51:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_893ec21ce8e0]]></ToUserName>
+<FromUserName><![CDATA[owGPstzmSAiB3yd7Ol6r3rLtTIec]]></FromUserName>
+<CreateTime>1490629866</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-03-27 23:55:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_893ec21ce8e0]]></ToUserName>
+<FromUserName><![CDATA[owGPst22L24Y8Jp4A3EPRzEucxko]]></FromUserName>
+<CreateTime>1490630146</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[华易地推]]></Content>
+<MsgId>6402207727925092197</MsgId>
+</xml>
+
+2017-03-27 23:55:46 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_893ec21ce8e0',
+    'fromusername' => 'owGPst22L24Y8Jp4A3EPRzEucxko',
+    'createtime' => '1490630146',
+    'msgtype' => 'text',
+    'content' => '华易地推',
+    'msgid' => '6402207727925092197',
+    'from' => 'owGPst22L24Y8Jp4A3EPRzEucxko',
+    'to' => 'gh_893ec21ce8e0',
+    'time' => '1490630146',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cover',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '13',
+    'rid' => '9',
+    'uniacid' => '2',
+    'module' => 'cover',
+    'content' => '华易地推',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-03-27 23:55:46 response :
+------------
+Array:
+FromUserName : gh_893ec21ce8e0 ;
+ToUserName : owGPst22L24Y8Jp4A3EPRzEucxko ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

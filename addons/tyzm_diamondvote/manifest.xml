@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://www.qdyma.com" versionCode="0.6,0.7,0.8">
+	<application setting="true">
+		<name><![CDATA[钻石投票]]></name>
+		<identifie><![CDATA[tyzm_diamondvote]]></identifie>
+		<version><![CDATA[3.5]]></version>
+		<type><![CDATA[activity]]></type>
+		<ability><![CDATA[投票加钻石摸索，涨粉同时赚钱]]></ability>
+		<description><![CDATA[投票加钻石摸索，涨粉同时赚钱]]></description>
+		<author><![CDATA[起点源码]]></author>
+		<url><![CDATA[http://www.qdyma.com/]]></url>
+	</application>
+	<platform>
+		<subscribes>
+		</subscribes>
+		<handles>
+			<message type="image" />
+			<message type="voice" />
+			<message type="video" />
+			<message type="shortvideo" />
+			<message type="location" />
+			<message type="link" />
+			<message type="subscribe" />
+			<message type="qr" />
+			<message type="trace" />
+			<message type="click" />
+			<message type="merchant_order" />
+			<message type="text" />
+		</handles>
+		<rule embed="true" />
+		<card embed="false" />
+	</platform>
+	<bindings>
+		<menu>
+			<entry title="活动管理" do="manage" state="" direct="false" />
+			<entry title="交友管理" do="friendship" state="" direct="false" />
+		</menu>
+	</bindings>
+	<permissions>
+	</permissions>
+	<install><![CDATA[inc/qdyma/install.php]]></install>
+	<uninstall><![CDATA[inc/qdyma/uninstall.php]]></uninstall>
+	<upgrade><![CDATA[inc/qdyma/update.php]]></upgrade>
+</manifest>

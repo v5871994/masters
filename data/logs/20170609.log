@@ -1,0 +1,1593 @@
+2017-06-09 00:11:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs63iHeApmFXuDazCEvO1UCc]]></FromUserName>
+<CreateTime>1496938270</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>39.369862</Latitude>
+<Longitude>112.547417</Longitude>
+<Precision>1130.000000</Precision>
+</xml>
+
+2017-06-09 00:11:10 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs63iHeApmFXuDazCEvO1UCc',
+    'createtime' => '1496938270',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '39.369862',
+    'longitude' => '112.547417',
+    'precision' => '1130.000000',
+    'from' => 'omxiWs63iHeApmFXuDazCEvO1UCc',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496938270',
+    'type' => 'trace',
+    'location_x' => '39.369862',
+    'location_y' => '112.547417',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 00:11:10 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 00:11:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs63iHeApmFXuDazCEvO1UCc]]></FromUserName>
+<CreateTime>1496938274</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-06-09 11:34:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWszVScIW7xEJiAwOCd_Tdbgg]]></FromUserName>
+<CreateTime>1496979282</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-06-09 11:35:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0UTWIuotg7YlGD34CdwLVD4]]></FromUserName>
+<CreateTime>1496979346</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.572222</Latitude>
+<Longitude>114.122246</Longitude>
+<Precision>65.000000</Precision>
+</xml>
+
+2017-06-09 11:35:46 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'createtime' => '1496979346',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.572222',
+    'longitude' => '114.122246',
+    'precision' => '65.000000',
+    'from' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496979346',
+    'type' => 'trace',
+    'location_x' => '22.572222',
+    'location_y' => '114.122246',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 11:35:46 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 11:37:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0UTWIuotg7YlGD34CdwLVD4]]></FromUserName>
+<CreateTime>1496979461</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.572220</Latitude>
+<Longitude>114.122276</Longitude>
+<Precision>65.000000</Precision>
+</xml>
+
+2017-06-09 11:37:41 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'createtime' => '1496979461',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.572220',
+    'longitude' => '114.122276',
+    'precision' => '65.000000',
+    'from' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496979461',
+    'type' => 'trace',
+    'location_x' => '22.572220',
+    'location_y' => '114.122276',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 11:37:41 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 11:37:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0UTWIuotg7YlGD34CdwLVD4]]></FromUserName>
+<CreateTime>1496979461</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://w.url.cn/s/Aupht7u]]></EventKey>
+<MenuId>429584449</MenuId>
+</xml>
+
+2017-06-09 11:37:41 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'createtime' => '1496979461',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://w.url.cn/s/Aupht7u',
+    'menuid' => '429584449',
+    'from' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496979461',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://w.url.cn/s/Aupht7u',
+  ),
+  'module' => 'news',
+  'rule' => '26',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '487',
+    'rid' => '26',
+    'uniacid' => '3',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 11:37:41 response :
+------------
+Array:
+FromUserName : gh_599a701eee6b ;
+ToUserName : oeSIo0UTWIuotg7YlGD34CdwLVD4 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 11:39:22 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0UTWIuotg7YlGD34CdwLVD4]]></FromUserName>
+<CreateTime>1496979562</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.572224</Latitude>
+<Longitude>114.122208</Longitude>
+<Precision>30.000000</Precision>
+</xml>
+
+2017-06-09 11:39:22 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'createtime' => '1496979562',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.572224',
+    'longitude' => '114.122208',
+    'precision' => '30.000000',
+    'from' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496979562',
+    'type' => 'trace',
+    'location_x' => '22.572224',
+    'location_y' => '114.122208',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 11:39:22 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 11:46:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0UTWIuotg7YlGD34CdwLVD4]]></FromUserName>
+<CreateTime>1496979966</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.572224</Latitude>
+<Longitude>114.122246</Longitude>
+<Precision>65.000000</Precision>
+</xml>
+
+2017-06-09 11:46:07 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'createtime' => '1496979966',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.572224',
+    'longitude' => '114.122246',
+    'precision' => '65.000000',
+    'from' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496979966',
+    'type' => 'trace',
+    'location_x' => '22.572224',
+    'location_y' => '114.122246',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 11:46:07 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 11:46:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0QvBFd9micbjQy0joBju_Js]]></FromUserName>
+<CreateTime>1496979987</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.572309</Latitude>
+<Longitude>114.122231</Longitude>
+<Precision>65.000000</Precision>
+</xml>
+
+2017-06-09 11:46:28 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0QvBFd9micbjQy0joBju_Js',
+    'createtime' => '1496979987',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.572309',
+    'longitude' => '114.122231',
+    'precision' => '65.000000',
+    'from' => 'oeSIo0QvBFd9micbjQy0joBju_Js',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496979987',
+    'type' => 'trace',
+    'location_x' => '22.572309',
+    'location_y' => '114.122231',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 11:46:28 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 11:46:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0UTWIuotg7YlGD34CdwLVD4]]></FromUserName>
+<CreateTime>1496980014</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.572243</Latitude>
+<Longitude>114.122238</Longitude>
+<Precision>65.000000</Precision>
+</xml>
+
+2017-06-09 11:46:54 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'createtime' => '1496980014',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.572243',
+    'longitude' => '114.122238',
+    'precision' => '65.000000',
+    'from' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496980014',
+    'type' => 'trace',
+    'location_x' => '22.572243',
+    'location_y' => '114.122238',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 11:46:54 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 11:47:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0UTWIuotg7YlGD34CdwLVD4]]></FromUserName>
+<CreateTime>1496980076</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.572227</Latitude>
+<Longitude>114.122215</Longitude>
+<Precision>65.000000</Precision>
+</xml>
+
+2017-06-09 11:47:56 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'createtime' => '1496980076',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.572227',
+    'longitude' => '114.122215',
+    'precision' => '65.000000',
+    'from' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496980076',
+    'type' => 'trace',
+    'location_x' => '22.572227',
+    'location_y' => '114.122215',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 11:47:56 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 11:48:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0UTWIuotg7YlGD34CdwLVD4]]></FromUserName>
+<CreateTime>1496980094</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.572227</Latitude>
+<Longitude>114.122215</Longitude>
+<Precision>65.000000</Precision>
+</xml>
+
+2017-06-09 11:48:14 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'createtime' => '1496980094',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.572227',
+    'longitude' => '114.122215',
+    'precision' => '65.000000',
+    'from' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496980094',
+    'type' => 'trace',
+    'location_x' => '22.572227',
+    'location_y' => '114.122215',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 11:48:14 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 11:51:16 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0UTWIuotg7YlGD34CdwLVD4]]></FromUserName>
+<CreateTime>1496980275</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.572226</Latitude>
+<Longitude>114.122238</Longitude>
+<Precision>65.000000</Precision>
+</xml>
+
+2017-06-09 11:51:16 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'createtime' => '1496980275',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.572226',
+    'longitude' => '114.122238',
+    'precision' => '65.000000',
+    'from' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496980275',
+    'type' => 'trace',
+    'location_x' => '22.572226',
+    'location_y' => '114.122238',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 11:51:16 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 12:17:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs_g8Y0EeaCvPG94i4dmwRQE]]></FromUserName>
+<CreateTime>1496981873</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>21.659218</Latitude>
+<Longitude>110.931725</Longitude>
+<Precision>40.000000</Precision>
+</xml>
+
+2017-06-09 12:17:54 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs_g8Y0EeaCvPG94i4dmwRQE',
+    'createtime' => '1496981873',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '21.659218',
+    'longitude' => '110.931725',
+    'precision' => '40.000000',
+    'from' => 'omxiWs_g8Y0EeaCvPG94i4dmwRQE',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496981873',
+    'type' => 'trace',
+    'location_x' => '21.659218',
+    'location_y' => '110.931725',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 12:17:54 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 12:31:22 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0UTWIuotg7YlGD34CdwLVD4]]></FromUserName>
+<CreateTime>1496982681</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.572231</Latitude>
+<Longitude>114.122215</Longitude>
+<Precision>65.000000</Precision>
+</xml>
+
+2017-06-09 12:31:22 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'createtime' => '1496982681',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.572231',
+    'longitude' => '114.122215',
+    'precision' => '65.000000',
+    'from' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496982681',
+    'type' => 'trace',
+    'location_x' => '22.572231',
+    'location_y' => '114.122215',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 12:31:22 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 12:44:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_599a701eee6b]]></ToUserName>
+<FromUserName><![CDATA[oeSIo0UTWIuotg7YlGD34CdwLVD4]]></FromUserName>
+<CreateTime>1496983483</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.572287</Latitude>
+<Longitude>114.122192</Longitude>
+<Precision>65.000000</Precision>
+</xml>
+
+2017-06-09 12:44:43 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_599a701eee6b',
+    'fromusername' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'createtime' => '1496983483',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.572287',
+    'longitude' => '114.122192',
+    'precision' => '65.000000',
+    'from' => 'oeSIo0UTWIuotg7YlGD34CdwLVD4',
+    'to' => 'gh_599a701eee6b',
+    'time' => '1496983483',
+    'type' => 'trace',
+    'location_x' => '22.572287',
+    'location_y' => '114.122192',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 12:44:43 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 16:14:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs3kI8PpPEl0yCDBPZdIQ4yw]]></FromUserName>
+<CreateTime>1496996085</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 16:14:45 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs3kI8PpPEl0yCDBPZdIQ4yw',
+    'createtime' => '1496996085',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ',
+    'menuid' => '409603874',
+    'from' => 'omxiWs3kI8PpPEl0yCDBPZdIQ4yw',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496996085',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 16:14:45 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs3kI8PpPEl0yCDBPZdIQ4yw ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 16:14:47 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs3kI8PpPEl0yCDBPZdIQ4yw]]></FromUserName>
+<CreateTime>1496996087</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 16:14:47 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs3kI8PpPEl0yCDBPZdIQ4yw',
+    'createtime' => '1496996087',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote',
+    'menuid' => '409603874',
+    'from' => 'omxiWs3kI8PpPEl0yCDBPZdIQ4yw',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496996087',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 16:14:47 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs3kI8PpPEl0yCDBPZdIQ4yw ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 16:16:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs3kI8PpPEl0yCDBPZdIQ4yw]]></FromUserName>
+<CreateTime>1496996173</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 16:16:13 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs3kI8PpPEl0yCDBPZdIQ4yw',
+    'createtime' => '1496996173',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ',
+    'menuid' => '409603874',
+    'from' => 'omxiWs3kI8PpPEl0yCDBPZdIQ4yw',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496996173',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 16:16:13 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs3kI8PpPEl0yCDBPZdIQ4yw ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 16:16:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs_x_K5LBoLA0Es82TDuQAPM]]></FromUserName>
+<CreateTime>1496996209</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-06-09 16:16:50 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'createtime' => '1496996209',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496996209',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+    'content' => '活动',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '486',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '活动',
+    'type' => '2',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 16:16:50 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs_x_K5LBoLA0Es82TDuQAPM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 16:17:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs_x_K5LBoLA0Es82TDuQAPM]]></FromUserName>
+<CreateTime>1496996222</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 16:17:02 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'createtime' => '1496996222',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ',
+    'menuid' => '409603874',
+    'from' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496996222',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 16:17:02 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs_x_K5LBoLA0Es82TDuQAPM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 16:17:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs_x_K5LBoLA0Es82TDuQAPM]]></FromUserName>
+<CreateTime>1496996248</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://r.xiumi.us/stage/v5/2EA7C/43908634#/]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 16:17:29 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'createtime' => '1496996248',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://r.xiumi.us/stage/v5/2EA7C/43908634#/',
+    'menuid' => '409603874',
+    'from' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496996248',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://r.xiumi.us/stage/v5/2EA7C/43908634#/',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 16:17:29 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs_x_K5LBoLA0Es82TDuQAPM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 16:17:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs_x_K5LBoLA0Es82TDuQAPM]]></FromUserName>
+<CreateTime>1496996254</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 16:17:34 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'createtime' => '1496996254',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote',
+    'menuid' => '409603874',
+    'from' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496996254',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 16:17:34 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs_x_K5LBoLA0Es82TDuQAPM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 16:17:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs_x_K5LBoLA0Es82TDuQAPM]]></FromUserName>
+<CreateTime>1496996275</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 16:17:55 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'createtime' => '1496996275',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ',
+    'menuid' => '409603874',
+    'from' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496996275',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 16:17:55 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs_x_K5LBoLA0Es82TDuQAPM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 16:18:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs_x_K5LBoLA0Es82TDuQAPM]]></FromUserName>
+<CreateTime>1496996307</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://r.xiumi.us/stage/v5/2EA7C/43908634#/]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 16:18:27 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'createtime' => '1496996307',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://r.xiumi.us/stage/v5/2EA7C/43908634#/',
+    'menuid' => '409603874',
+    'from' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496996307',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://r.xiumi.us/stage/v5/2EA7C/43908634#/',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 16:18:27 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs_x_K5LBoLA0Es82TDuQAPM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 16:18:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs_x_K5LBoLA0Es82TDuQAPM]]></FromUserName>
+<CreateTime>1496996321</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 16:18:41 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'createtime' => '1496996321',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ',
+    'menuid' => '409603874',
+    'from' => 'omxiWs_x_K5LBoLA0Es82TDuQAPM',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1496996321',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://mp.weixin.qq.com/s/6zX50aaM25344qd-U3FtzQ',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 16:18:41 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs_x_K5LBoLA0Es82TDuQAPM ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 17:57:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs0GvwvTxjtzWGR-WqU3ZeeU]]></FromUserName>
+<CreateTime>1497002224</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.627005</Latitude>
+<Longitude>114.052795</Longitude>
+<Precision>40.000000</Precision>
+</xml>
+
+2017-06-09 17:57:04 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs0GvwvTxjtzWGR-WqU3ZeeU',
+    'createtime' => '1497002224',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.627005',
+    'longitude' => '114.052795',
+    'precision' => '40.000000',
+    'from' => 'omxiWs0GvwvTxjtzWGR-WqU3ZeeU',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1497002224',
+    'type' => 'trace',
+    'location_x' => '22.627005',
+    'location_y' => '114.052795',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 17:57:04 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 17:57:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs0GvwvTxjtzWGR-WqU3ZeeU]]></FromUserName>
+<CreateTime>1497002225</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 17:57:05 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs0GvwvTxjtzWGR-WqU3ZeeU',
+    'createtime' => '1497002225',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote',
+    'menuid' => '409603874',
+    'from' => 'omxiWs0GvwvTxjtzWGR-WqU3ZeeU',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1497002225',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 17:57:05 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs0GvwvTxjtzWGR-WqU3ZeeU ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 17:57:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs0GvwvTxjtzWGR-WqU3ZeeU]]></FromUserName>
+<CreateTime>1497002255</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.627005</Latitude>
+<Longitude>114.052795</Longitude>
+<Precision>40.000000</Precision>
+</xml>
+
+2017-06-09 17:57:35 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs0GvwvTxjtzWGR-WqU3ZeeU',
+    'createtime' => '1497002255',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.627005',
+    'longitude' => '114.052795',
+    'precision' => '40.000000',
+    'from' => 'omxiWs0GvwvTxjtzWGR-WqU3ZeeU',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1497002255',
+    'type' => 'trace',
+    'location_x' => '22.627005',
+    'location_y' => '114.052795',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 17:57:35 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 19:15:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs462DzSh7in7cbloAZX0hyc]]></FromUserName>
+<CreateTime>1497006913</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.546455</Latitude>
+<Longitude>114.112816</Longitude>
+<Precision>400.000000</Precision>
+</xml>
+
+2017-06-09 19:15:13 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs462DzSh7in7cbloAZX0hyc',
+    'createtime' => '1497006913',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.546455',
+    'longitude' => '114.112816',
+    'precision' => '400.000000',
+    'from' => 'omxiWs462DzSh7in7cbloAZX0hyc',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1497006913',
+    'type' => 'trace',
+    'location_x' => '22.546455',
+    'location_y' => '114.112816',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 19:15:13 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 19:15:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs462DzSh7in7cbloAZX0hyc]]></FromUserName>
+<CreateTime>1497006919</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://r.xiumi.us/stage/v5/2EA7C/43908634#/]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 19:15:19 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs462DzSh7in7cbloAZX0hyc',
+    'createtime' => '1497006919',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://r.xiumi.us/stage/v5/2EA7C/43908634#/',
+    'menuid' => '409603874',
+    'from' => 'omxiWs462DzSh7in7cbloAZX0hyc',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1497006919',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://r.xiumi.us/stage/v5/2EA7C/43908634#/',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 19:15:19 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs462DzSh7in7cbloAZX0hyc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-06-09 19:15:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs462DzSh7in7cbloAZX0hyc]]></FromUserName>
+<CreateTime>1497006926</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>22.546455</Latitude>
+<Longitude>114.112816</Longitude>
+<Precision>400.000000</Precision>
+</xml>
+
+2017-06-09 19:15:26 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs462DzSh7in7cbloAZX0hyc',
+    'createtime' => '1497006926',
+    'msgtype' => 'event',
+    'event' => 'LOCATION',
+    'latitude' => '22.546455',
+    'longitude' => '114.112816',
+    'precision' => '400.000000',
+    'from' => 'omxiWs462DzSh7in7cbloAZX0hyc',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1497006926',
+    'type' => 'trace',
+    'location_x' => '22.546455',
+    'location_y' => '114.112816',
+  ),
+  'module' => 'default',
+  'rule' => '-1',
+)
+
+2017-06-09 19:15:26 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2017-06-09 21:43:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_2cc1b47a6d8a]]></ToUserName>
+<FromUserName><![CDATA[omxiWs8Dn0eYV6dECVKhGAwAirJo]]></FromUserName>
+<CreateTime>1497015822</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote]]></EventKey>
+<MenuId>409603874</MenuId>
+</xml>
+
+2017-06-09 21:43:42 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_2cc1b47a6d8a',
+    'fromusername' => 'omxiWs8Dn0eYV6dECVKhGAwAirJo',
+    'createtime' => '1497015822',
+    'msgtype' => 'event',
+    'event' => 'VIEW',
+    'eventkey' => 'http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote',
+    'menuid' => '409603874',
+    'from' => 'omxiWs8Dn0eYV6dECVKhGAwAirJo',
+    'to' => 'gh_2cc1b47a6d8a',
+    'time' => '1497015822',
+    'type' => 'text',
+    'content' => '投票活动',
+    'redirection' => true,
+    'source' => 'default',
+    'original' => 'http://www.cdj1946.cn/app/index.php?i=5&c=entry&rid=24&do=index&m=tyzm_diamondvote',
+  ),
+  'module' => 'news',
+  'rule' => '23',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '485',
+    'rid' => '23',
+    'uniacid' => '5',
+    'module' => 'news',
+    'content' => '投票活动',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+  ),
+)
+
+2017-06-09 21:43:42 response :
+------------
+Array:
+FromUserName : gh_2cc1b47a6d8a ;
+ToUserName : omxiWs8Dn0eYV6dECVKhGAwAirJo ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+

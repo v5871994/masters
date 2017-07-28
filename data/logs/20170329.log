@@ -1,0 +1,76 @@
+2017-03-29 00:30:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_893ec21ce8e0]]></ToUserName>
+<FromUserName><![CDATA[owGPstzmSAiB3yd7Ol6r3rLtTIec]]></FromUserName>
+<CreateTime>1490718617</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>6402587707976764511</MsgId>
+</xml>
+
+2017-03-29 00:30:18 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_893ec21ce8e0',
+    'fromusername' => 'owGPstzmSAiB3yd7Ol6r3rLtTIec',
+    'createtime' => '1490718617',
+    'msgtype' => 'text',
+    'content' => '测试',
+    'msgid' => '6402587707976764511',
+    'from' => 'owGPstzmSAiB3yd7Ol6r3rLtTIec',
+    'to' => 'gh_893ec21ce8e0',
+    'time' => '1490718617',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2017-03-29 00:30:18 response :
+------------
+
+2017-03-29 00:30:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_893ec21ce8e0]]></ToUserName>
+<FromUserName><![CDATA[owGPstzmSAiB3yd7Ol6r3rLtTIec]]></FromUserName>
+<CreateTime>1490718653</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试2]]></Content>
+<MsgId>6402587862595587172</MsgId>
+</xml>
+
+2017-03-29 00:30:54 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_893ec21ce8e0',
+    'fromusername' => 'owGPstzmSAiB3yd7Ol6r3rLtTIec',
+    'createtime' => '1490718653',
+    'msgtype' => 'text',
+    'content' => '测试2',
+    'msgid' => '6402587862595587172',
+    'from' => 'owGPstzmSAiB3yd7Ol6r3rLtTIec',
+    'to' => 'gh_893ec21ce8e0',
+    'time' => '1490718653',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+)
+
+2017-03-29 00:30:54 response :
+------------
+

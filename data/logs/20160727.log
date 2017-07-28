@@ -1,0 +1,105 @@
+2016-07-27 10:22:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469586177</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://fx.hikuer.com/app/index.php?i=2&c=entry&p=list&do=shop&m=ewei_shop]]></Content>
+<MsgId>6311824569548661593</MsgId>
+</xml>
+
+2016-07-27 10:22:57 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-27 10:22:57 response :
+------------
+
+2016-07-27 10:30:22 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469586622</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://fx.hikuer.com/app/index.php?i=2&c=entry&p=designer&pageid=4&m=ewei_shop&do=plugin]]></Content>
+<MsgId>6311826480809108686</MsgId>
+</xml>
+
+2016-07-27 10:30:22 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-27 10:30:22 response :
+------------
+
+2016-07-27 13:29:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469597340</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://wx.dodoqqt.com/app/index.php?i=2&c=entry&do=shop&m=sz_yi]]></Content>
+<MsgId>6311872514268597850</MsgId>
+</xml>
+
+2016-07-27 13:29:00 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-27 13:29:00 response :
+------------
+
+2016-07-27 13:29:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469597393</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://dj.win-k.com/app/index.php?i=5&c=entry&do=shop&m=sz_yi]]></Content>
+<MsgId>6311872741901864588</MsgId>
+</xml>
+
+2016-07-27 13:29:53 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-27 13:29:53 response :
+------------
+
+2016-07-27 16:40:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469608841</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://tb.win-k.com/index.jhtml]]></Content>
+<MsgId>6311921910687477763</MsgId>
+</xml>
+
+2016-07-27 16:40:41 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-27 16:40:41 response :
+------------
+

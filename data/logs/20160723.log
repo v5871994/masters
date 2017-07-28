@@ -1,0 +1,205 @@
+2016-07-23 08:48:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469234929</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://dj.win-k.com/app/index.php?i=2&c=entry&do=shop&m=sz_yi]]></Content>
+<MsgId>6310315970875667287</MsgId>
+</xml>
+
+2016-07-23 08:48:49 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-23 08:48:49 response :
+------------
+
+2016-07-23 09:10:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469236217</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://dj.win-k.com/app/index.php?i=2&c=entry&do=shop&m=sz_yi]]></Content>
+<MsgId>6310321502793545245</MsgId>
+</xml>
+
+2016-07-23 09:10:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-23 09:10:17 response :
+------------
+
+2016-07-23 09:11:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469236284</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[商城入口]]></Content>
+<MsgId>6310321790556354117</MsgId>
+</xml>
+
+2016-07-23 09:11:24 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 14 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-07-23 09:11:24 response :
+------------
+Array:
+FromUserName : gh_dafe7e614ad4 ;
+ToUserName : oWY3_v9YllXgxmr_YLym6upDj_A0 ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-07-23 09:11:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469236312</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://dj.win-k.com/app/index.php?i=2&c=entry&do=shop&m=sz_yi]]></Content>
+<MsgId>6310321910815438427</MsgId>
+</xml>
+
+2016-07-23 09:11:52 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-23 09:11:52 response :
+------------
+
+2016-07-23 09:13:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v5wqf5Otr4s5R-QLWroRdvc]]></FromUserName>
+<CreateTime>1469236386</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[商城入口]]></Content>
+<MsgId>6310322228643018373</MsgId>
+</xml>
+
+2016-07-23 09:13:06 params :
+------------
+Array:
+message : Array ;
+module : cover ;
+rule : 14 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-07-23 09:13:06 response :
+------------
+Array:
+FromUserName : gh_dafe7e614ad4 ;
+ToUserName : oWY3_v5wqf5Otr4s5R-QLWroRdvc ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2016-07-23 09:49:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469238598</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://dj.win-k.com/app/index.php?i=2&c=entry&p=cart&do=shop&m=sz_yi&p=cart]]></Content>
+<MsgId>6310331729110678144</MsgId>
+</xml>
+
+2016-07-23 09:49:58 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-23 09:49:58 response :
+------------
+
+2016-07-23 17:42:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469266922</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://dj.win-k.com/app/index.php?i=5&c=entry&do=shop&m=sz_yi]]></Content>
+<MsgId>6310453379764386209</MsgId>
+</xml>
+
+2016-07-23 17:42:02 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-23 17:42:02 response :
+------------
+
+2016-07-23 17:45:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469267127</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://dj.win-k.com/app/index.php?i=5&c=entry&do=member&m=sz_yi]]></Content>
+<MsgId>6310454260232682021</MsgId>
+</xml>
+
+2016-07-23 17:45:27 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-23 17:45:27 response :
+------------
+
+2016-07-23 19:40:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469274020</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://yz.win-k.com/app/index.php?i=114&c=entry&do=shop&m=sz_yi]]></Content>
+<MsgId>6310483865442257246</MsgId>
+</xml>
+
+2016-07-23 19:40:21 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-23 19:40:21 response :
+------------
+

@@ -1,0 +1,42 @@
+2016-08-01 11:18:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1470021526</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://tb.win-k.com/app/index.php?i=1&c=entry&do=shop&m=sz_yi]]></Content>
+<MsgId>6313694379266779517</MsgId>
+</xml>
+
+2016-08-01 11:18:46 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-08-01 11:18:46 response :
+------------
+
+2016-08-01 13:11:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1470028295</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://tb.win-k.com/app/index.php?i=1&c=entry&mid=9&do=plugin&m=sz_yi&p=commission&method=buylevel&cid=2&op=up]]></Content>
+<MsgId>6313723451900424404</MsgId>
+</xml>
+
+2016-08-01 13:11:35 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-08-01 13:11:35 response :
+------------
+

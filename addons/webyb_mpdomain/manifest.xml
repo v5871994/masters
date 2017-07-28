@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://www.qdyma.com" versionCode="0.6,0.7,0.8">
+	<application setting="false">
+		<name><![CDATA[域名授权文件]]></name>
+		<identifie><![CDATA[webyb_mpdomain]]></identifie>
+		<version><![CDATA[1.0]]></version>
+		<type><![CDATA[business]]></type>
+		<ability><![CDATA[微信公众平台域名授权txt文件一键搞定]]></ability>
+		<description><![CDATA[微信公众平台域名授权txt文件一键搞定]]></description>
+		<author><![CDATA[起点源码]]></author>
+		<url><![CDATA[http://www.qdyma.com/]]></url>
+	</application>
+	<platform>
+		<subscribes>
+		</subscribes>
+		<handles>
+		</handles>
+		<rule embed="false" />
+		<card embed="false" />
+	</platform>
+	<bindings>
+		<menu>
+			<entry title="授权文件" do="index" state="" direct="false" />
+		</menu>
+	</bindings>
+	<permissions>
+	</permissions>
+	<install><![CDATA[inc/qdyma/install.php]]></install>
+	<uninstall><![CDATA[inc/qdyma/uninstall.php]]></uninstall>
+	<upgrade><![CDATA[inc/qdyma/update.php]]></upgrade>
+</manifest>

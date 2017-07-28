@@ -1,0 +1,21 @@
+2016-07-26 16:51:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_dafe7e614ad4]]></ToUserName>
+<FromUserName><![CDATA[oWY3_v9YllXgxmr_YLym6upDj_A0]]></FromUserName>
+<CreateTime>1469523077</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[http://baixuexiyang.github.io/artEditor/]]></Content>
+<MsgId>6311553557112238700</MsgId>
+</xml>
+
+2016-07-26 16:51:17 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-07-26 16:51:17 response :
+------------
+
